@@ -58,6 +58,7 @@ string getStirngOfIndx(int indx, string file)
 			return s;
 		}
 	}
+	return "";
 }
 //Coparison function to be called at the end of the main
 bool compare(string file1, string file2)
