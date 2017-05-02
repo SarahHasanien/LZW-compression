@@ -106,7 +106,6 @@ int main()
 	ofs.close();
 	//End Genereating initial encoder dictionary
 
-	//Open original msg file and the file which will contain the dictionary(encoder)
 	char c;
 	string s = "";
 	ifstream inMsg;
